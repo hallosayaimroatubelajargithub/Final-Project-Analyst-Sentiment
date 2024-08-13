@@ -22,7 +22,7 @@ This project is a sentiment analysis application designed to provide insights in
 ## How to Install
 ```bash
 # Step 1 -> Clone repository
-git clone [https://github.com/hallosayaimroatubelajargithub/Final-Project-Analyst-Sentiment.git]
+git clone https://github.com/hallosayaimroatubelajargithub/Final-Project-Analyst-Sentiment.git
 
 # Step 2 -> Navigate to project directory
 cd Final-Project-Analyst-Sentiment
