@@ -46,7 +46,7 @@ streamlit run Home.py
 <b>Link:</b> https://final-project-analyst-sentiment-250602.streamlit.app/
 
 ## Full Version on Medium
-<b>Link:</b>
+<b>Link:</b> https://medium.com/@imroatuslch/lets-try-fd404ef114c9
 
 ## MIT License
 Copyright (c) 2024 Imroatu Solicah
