@@ -1,6 +1,6 @@
-streamlit==1.19.0
-google-play-scraper==1.2.2
-pandas==2.0.1
-textblob==0.17.1
-matplotlib==3.7.1
-scikit-learn==1.3.0
+streamlit
+pandas
+textblob
+matplotlib
+scikit-learn
+google-play-scraper
