@@ -1,4 +1,4 @@
-# Final Project Analyst Sentiment [FGA Digitalent 2024]
+# Final Project Analyst Sentiment [FGA UDINUS 2024]
 ![gambar](https://github.com/user-attachments/assets/3199b40b-7694-452a-9d84-b75ccb647e2f)
 
 
